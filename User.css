@@ -1,0 +1,29 @@
+
+.details{
+    height: 300px;
+    width: 400px;
+    padding: 5px;
+    /* border: 1px solid red; */
+    box-shadow: 2px 2px 5px black, 3px 4px 7px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 20vh;
+    left: 350px;
+    background-color: beige;
+    
+}
+
+.detailsbox{
+    padding: 2px;
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+   
+}
+
+.fullDetails{
+    height: 100vh;
+    background-color: aquamarine;
+}

@@ -1,0 +1,49 @@
+.danger{
+    height: 40px;
+    background-color: rgb(126, 190, 239);
+    color: white;
+    display: flex;
+    justify-content:space-between;
+
+    gap: 10px;
+    font-size: 20px;
+    align-items: center;
+    padding: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: violet;
+}
+
+.logo{
+
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.login-sign{
+    margin-right: 20px;
+    display: flex;
+    gap: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* .products{
+    height: 40px;
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+} */
